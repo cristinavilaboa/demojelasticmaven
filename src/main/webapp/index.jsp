@@ -59,7 +59,7 @@
             <div class="row h-100">
                 <div class="col-lg-7 my-auto">
                     <div class="header-content mx-auto">
-                        <h1 class="mb-5">Data Center Summit: Bienvenido a la Demo de Mi Nube de ANTEL </h1>
+                        <h1 class="mb-5">PRUEBA GIT: Data Center Summit: Bienvenido a la Demo de Mi Nube de ANTEL </h1>
                         <a href="#download" class="btn btn-outline btn-xl js-scroll-trigger">IP del Servidor</a>
                     </div>
                 </div>
