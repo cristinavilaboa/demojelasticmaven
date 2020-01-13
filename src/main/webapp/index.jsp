@@ -14,7 +14,7 @@
         <meta name="author" content="">
         <link rel="icon" href="http://rbt.antel.com.uy/wp-content/themes/backtoneswp/assets/images/antel_logo.png">
 
-        <title>Data Center Summit</title>
+        <title>PuntaTech</title>
 
         <!-- Bootstrap core CSS -->
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -59,7 +59,7 @@
             <div class="row h-100">
                 <div class="col-lg-7 my-auto">
                     <div class="header-content mx-auto">
-                        <h1 class="mb-5">PRUEBA GIT: Data Center Summit: Bienvenido a la Demo de Mi Nube de ANTEL </h1>
+                        <h1 class="mb-5">Punta Tech: Bienvenido a la Demo de Mi Nube de ANTEL </h1>
                         <a href="#download" class="btn btn-outline btn-xl js-scroll-trigger">IP del Servidor</a>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2017 Antel. All Rights Reserved.</p>
+            <p>&copy; 2019 Antel. All Rights Reserved.</p>
         </div>
     </footer>
 
