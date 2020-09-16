@@ -59,7 +59,7 @@
             <div class="row h-100">
                 <div class="col-lg-7 my-auto">
                     <div class="header-content mx-auto">
-                        <h1 class="mb-5">FING: Bienvenido a la demo de Elastic Cloud de Mi Nube Antel</h1>
+                        <h1 class="mb-5">FING DEMO: Bienvenido a la demo de Elastic Cloud de Mi Nube Antel</h1>
                         <a href="#download" class="btn btn-outline btn-xl js-scroll-trigger">IP del Servidor</a>
                     </div>
                 </div>
