@@ -14,7 +14,7 @@
         <meta name="author" content="">
         <link rel="icon" href="http://rbt.antel.com.uy/wp-content/themes/backtoneswp/assets/images/antel_logo.png">
 
-        <title>PuntaTech</title>
+        <title>Elastic Cloud</title>
 
         <!-- Bootstrap core CSS -->
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
